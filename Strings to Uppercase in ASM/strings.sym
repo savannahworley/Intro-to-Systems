@@ -1,0 +1,30 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CAP                     3052
+//	END                     3008
+//	ENDFC                   3024
+//	ENDSC                   303C
+//	ENDTU                   3057
+//	FINDCHAR                300C
+//	FINDLAST                3003
+//	HEAD                    3013
+//	IFCHAR                  301A
+//	INCR                    3055
+//	LOWA                    305F
+//	LOWZ                    3060
+//	NOCHAR                  302C
+//	NOTCHAR                 301D
+//	SAVR0                   305D
+//	SAVR1                   300B
+//	SAVR2                   3029
+//	SAVR3                   302A
+//	SAVR4                   302B
+//	SAVR6                   305E
+//	SAVR7                   3042
+//	STRCAT                  302D
+//	SUBTR                   3061
+//	TESTNEG1                301F
+//	TOP                     3004
+//	TOPSC                   3035
+//	TOPTU                   3049
+//	TOUPPER                 3043
